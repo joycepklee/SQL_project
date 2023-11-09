@@ -4,11 +4,7 @@ Chinook is a music records company and I analysed the data containing tracks inf
 
 (1) Overview of the Data
 (2) Selecting the first three albums that will be added to the store, in the best interest of the company, from the following list of tracks: 
-Artist Name,	Genre
-Regal, Hip-Hop
-Red Tone,	Punk
-Meteor and the Girls,	Pop
-Slim Jim Bites,	Blues
+1. Regal, Hip-Hop 2. Red Tone,	Punk 3. Meteor and the Girls,	Pop 4. Slim Jim Bites,	Blues
 (3) Analyzing Employee Sales Performance: to evaluate total sales supported by employees
 (4) Analyzing Sales by Country: to discover countries worth future focus on marketing 
 (5) Business recommendation to the company: is buying albums or individual tracks a better strategy?
